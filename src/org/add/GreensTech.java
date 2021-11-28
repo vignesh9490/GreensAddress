@@ -18,6 +18,11 @@ public class GreensTech {
 	}
 	private void greensAnnanagar() {
 		System.out.println("annanagar");
+		
+	}
+	private void greenstech() {
+		System.out.println("chennai");
+
 	}
 	public static void main(String[] args) {
 		GreensTech g = new GreensTech();
@@ -26,5 +31,6 @@ public class GreensTech {
 		g.greensTambaram();
 		g.greensVelachery();
 		g.greensAnnanagar();
+		g.greenstech();
 	}
 	}
