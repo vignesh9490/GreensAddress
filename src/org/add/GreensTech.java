@@ -18,6 +18,11 @@ public class GreensTech {
 	}
 	private void greensAnnanagar() {
 		System.out.println("annanagar");
+		
+	}
+	private void greenstech() {
+		System.out.println("chennai");
+
 	}
 	private void course() {
 	 System.out.println("java selenium");
@@ -30,6 +35,8 @@ public class GreensTech {
 		g.greensTambaram();
 		g.greensVelachery();
 		g.greensAnnanagar();
+		g.greenstech();
 		g.course();
+
 	}
 	}
