@@ -24,6 +24,10 @@ public class GreensTech {
 		System.out.println("chennai");
 
 	}
+	private void course() {
+	 System.out.println("java selenium");
+
+	}
 	public static void main(String[] args) {
 		GreensTech g = new GreensTech();
 		g.greensOmr();
@@ -32,5 +36,7 @@ public class GreensTech {
 		g.greensVelachery();
 		g.greensAnnanagar();
 		g.greenstech();
+		g.course();
+
 	}
 	}
